@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "AZC6M8jeKYNupWz5Yo20vk7KHZ77UE5ZtuoyoxABOUg=",
+  "Source": "CourseDotNetApi",
+  "BasePath": "_content/CourseDotNetApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
